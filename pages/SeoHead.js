@@ -52,6 +52,20 @@ const seoContent = {
     locale: "fr_FR",
     lang: "fr",
   },
+  ar: {
+    title: `${authorName} - نائب رئيس هندسة الواجهة الأمامية | مهندس سحابة AWS ومطور شامل`,
+    description: `سيرة ذاتية احترافية لـ ${authorName}, نائب رئيس هندسة الواجهة الأمامية مع أكثر من 10 سنوات من الخبرة في هندسة السحابة AWS وتطوير الويب وتصميم واجهة المستخدم وتصميم تجربة المستخدم وقيادة الفرق. خبير في PHP و Node.js و Angular و TypeScript وتقنيات الخوادم`,
+    keywords:
+      "رمال محمود, هندسة الواجهة الأمامية, مهندس سحابة AWS, مطور شامل, مطور PHP, Node.js, Angular, TypeScript, تصميم واجهة المستخدم, تصميم تجربة المستخدم, هندسة السحابة, نائب رئيس الهندسة, إيلويلو الفلبين",
+    ogTitle: `${authorName} - نائب رئيس هندسة الواجهة الأمامية | مهندس سحابة AWS`,
+    ogDescription:
+      "نائب رئيس هندسة الواجهة الأمامية مع أكثر من 10 سنوات من الخبرة في هندسة السحابة AWS وتطوير الويب وتصميم واجهة المستخدم وتصميم تجربة المستخدم وقيادة الفرق. خبير في PHP و Node.js و Angular و TypeScript وتقنيات الخوادم",
+    twitterTitle: `${authorName} - نائب رئيس هندسة الواجهة الأمامية`,
+    twitterDescription:
+      "نائب رئيس هندسة الواجهة الأمامية مع أكثر من 10 سنوات من الخبرة في هندسة السحابة AWS وتطوير الويب وتصميم واجهة المستخدم وتصميم تجربة المستخدم وقيادة الفرق. خبير في PHP و Node.js و Angular و TypeScript وتقنيات الخوادم",
+    locale: "ar_SA",
+    lang: "ar",
+  },
 };
 
 // Person Schema Data (language-independent structured data)
@@ -111,6 +125,7 @@ const SeoHead = () => {
       <link rel="alternate" hrefLang="en" href={baseUrl} />
       <link rel="alternate" hrefLang="de" href={`${baseUrl}/de`} />
       <link rel="alternate" hrefLang="fr" href={`${baseUrl}/fr`} />
+      <link rel="alternate" hrefLang="ar" href={`${baseUrl}/ar`} />
       <link rel="alternate" hrefLang="x-default" href={baseUrl} />
 
       <title>{content.title}</title>
