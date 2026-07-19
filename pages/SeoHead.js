@@ -1,11 +1,12 @@
 import Head from "next/head";
 import { useRouter } from "next/router";
 
+
+const baseUrl = "https://mahmudremal.netlify.app/";
 const authorName = "Remal Mahmud";
 const authorWebsite = "https://www.mahmudremal.com";
 const authorGithub = "https://github.com/mahmudremal";
 const authorLinkedIn = "https://linkedin.com/in/mahmud-remal/";
-const baseUrl = "https://www.mahmudremal.com";
 const phoneNumber = "+8801814118328";
 
 // Multi-language SEO content
@@ -79,12 +80,12 @@ const personSchema = {
     "AWS Cloud Engineer and Full-Stack Developer with 10+ years of experience in UI/UX engineering, backend development, cloud architecture, and database design.",
   url: baseUrl,
   telephone: phoneNumber,
-  sameAs: [authorLinkedIn, authorGithub, "https://wa.me/8801814118328"],
+  sameAs: [authorLinkedIn, authorGithub, "https://wa.me/8801814118328", "https://facebook.com/mahmudremal", "http://www.mahmudremal.com/", "https://x.com/MahmudRemal"],
   address: {
     "@type": "PostalAddress",
-    addressLocality: "Iloilo City",
-    addressRegion: "Philippines",
-    addressCountry: "PH",
+    addressLocality: "Lakshmipur",
+    addressRegion: "Bangladesh",
+    addressCountry: "BD",
   },
   knowsAbout: [
     "Frontend Development",
@@ -96,7 +97,6 @@ const personSchema = {
     "Angular",
     "TypeScript",
     "JavaScript",
-    "Laravel",
     "MySQL",
     "MongoDB",
     "UI/UX Design",
@@ -107,13 +107,13 @@ const personSchema = {
   },
 };
 
+
 const SeoHead = () => {
   const { locale = "en", locales } = useRouter();
   const content = seoContent[locale] || seoContent.en;
 
   const canonicalUrl = locale === "en" ? baseUrl : `${baseUrl}/${locale}`;
-
-  const socialImage = baseUrl + "/images/og-banner-mahmudremal.png"; // "https://placehold.co/1200x630/C6D4B6/2D3D22?text=RAMON+ALIVIO%0AVP+of+Frontend+Engineering&font=raleway";
+  const socialImage = baseUrl + "/images/og-banner-mahmudremal.png";
 
   return (
     <Head>

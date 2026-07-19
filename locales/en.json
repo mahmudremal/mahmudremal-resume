@@ -4,7 +4,93 @@
   "phone": "(+880) 1814 118-328",
   "summaryTitle": "SUMMARY",
   "summaryText": "AWS Cloud Engineer and Full-Stack Developer with 10+ years of experience in UI/UX engineering, backend development, cloud architecture, and database design. Proven leadership as Senior Backend Engineer, managing engineering teams and delivering scalable web and mobile solutions. Strong expertise in PHP, Node.js, Angular, AWS serverless technologies, and containerized environments.",
-  "skillsTitle": "MY SKILLS",
+  "skills": {
+    "title": "MY SKILLS",
+    "skills": [
+      {
+        "title": "Technical Skills",
+        "skills": [
+          {
+            "title": "Frontend Development",
+            "list": [
+              [
+                "html",
+                "HTML, CSS & JavaScript"
+              ],
+              [
+                "figma",
+                "UI/UX Design & Responsive Interfaces"
+              ],
+              [
+                "typeScript",
+                "TypeScript & Angular"
+              ]
+            ]
+          },
+          {
+            "title": "Backend Development",
+            "list": [
+              [
+                "php",
+                "PHP (Zend Certified)"
+              ],
+              [
+                "laravel",
+                "Laravel Framework & MVC Architecture"
+              ],
+              [
+                "nodejs",
+                "Node.js (Backend Development)"
+              ]
+            ]
+          },
+          {
+            "title": "Databases & Storage",
+            "list": [
+              [
+                "database",
+                "MySQL, MongoDB & Database Optimization"
+              ],
+              [
+                "amazon",
+                "Amazon DynamoDB & Redshift"
+              ],
+              [
+                "firebase",
+                "Google Firebase"
+              ],
+              [
+                "redis",
+                "Redis (ElastiCache) & SOLR"
+              ]
+            ]
+          },
+          {
+            "title": "DevOps & Infrastructure",
+            "list": [
+              [
+                "docker",
+                "Docker & Containerization"
+              ],
+              [
+                "lamp",
+                "LAMP Stack (Linux, Apache, MySQL, PHP)"
+              ]
+            ]
+          },
+          {
+            "title": "Project Management & Workflow",
+            "list": [
+              [
+                "jira",
+                "JIRA & Agile Workflow"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "personalTitle": "PERSONAL INFORMATION",
   "work": {
     "title": "WORK EXPERIENCE",
@@ -57,5 +143,6 @@
   "languages": "Languages",
   "english": "English",
   "german": "German",
-  "french": "French"
+  "french": "French",
+  "arabic": "Arabic"
 }
