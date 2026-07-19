@@ -1,0 +1,61 @@
+{
+  "name": "REMAL MAHMUD",
+  "location": "Lakshmipur, Bangladesh",
+  "phone": "(+880) 1814 118-328",
+  "summaryTitle": "SUMMARY",
+  "summaryText": "AWS Cloud Engineer and Full-Stack Developer with 10+ years of experience in UI/UX engineering, backend development, cloud architecture, and database design. Proven leadership as Senior Backend Engineer, managing engineering teams and delivering scalable web and mobile solutions. Strong expertise in PHP, Node.js, Angular, AWS serverless technologies, and containerized environments.",
+  "skillsTitle": "MY SKILLS",
+  "personalTitle": "PERSONAL INFORMATION",
+  "work": {
+    "title": "WORK EXPERIENCE",
+    "history": [
+      {
+        "title": "Fullstack Developer (Freelance)",
+        "period": "2017 to 2023",
+        "subTitle": "(Fiverr & Upwork, Inc. – 2017 to 2023)",
+        "points": [
+          "Built custom WordPress plugins, browser extensions, and OpenCart CMS solutions for global clients",
+          "Achieved Level Two Seller status for consistent quality, delivery, and client satisfaction",
+          "Collaborated with international clients to understand project requirements and deliver tailored technical solutions"
+        ]
+      },
+      {
+        "title": "WordPress Plugin Developer",
+        "period": "2022 to 2023",
+        "subTitle": "(WeTechPro LLC., Paris – 2022 to 2023)",
+        "points": [
+          "Developed custom WordPress plugins for diverse clients, adding unique functionalities to their websites",
+          "Implemented secure payment gateway integrations and enhanced e-commerce capabilities for online stores",
+          "Provided ongoing maintenance and updates to ensure plugin compatibility and performance"
+        ]
+      },
+      {
+        "title": "Senior WordPress Developer",
+        "period": "2024 to 2025",
+        "subTitle": "(Web Inspect Inc., Dhaka/Finland - 2024)",
+        "points": [
+          "Developed custom plugins and themes for high-profile clients based in Finland",
+          "Built a bespoke solution for the Finland National Doctors Association"
+        ]
+      },
+      {
+        "title": "Lead WordPress Developer & Project Manager",
+        "period": "2024 to 2025",
+        "subTitle": "(Ecommerized LLC, Abu Dhabi - 2024 to 2025)",
+        "points": [
+          "Led the WordPress development department, supervising a team of remote developers",
+          "Coordinated project timelines, code reviews, and client delivery across multiple concurrent projects",
+          "Recognized with High Performance & Client Engagement awards in Sep 2024, Feb 2025, and Mar 2025",
+          "Secured new client contracts independently through direct performance and client confidence"
+        ]
+      }
+    ]
+  },
+  "age": "Age –%d Years",
+  "birthdate": "Birthdate – 10th May 1999",
+  "nationality": "Nationality – Bangladeshi",
+  "languages": "Languages",
+  "english": "English",
+  "german": "German",
+  "french": "French"
+}
