@@ -10,6 +10,7 @@ import ProfileImage from "../images/mahmudremal.png";
 import SeoHead from "./SeoHead";
 import { sprintf } from "sprintf";
 import Icons from "./icons";
+import AnalyticsTracker from "./analytics";
 
 const translations = { en, de, fr, ar };
 
@@ -58,6 +59,7 @@ export default function Home() {
 
   return (
     <>
+      <AnalyticsTracker />
       <SeoHead />
       <div className="min-h-screen bg-[#C6D4B6] flex items-center justify-center p-4 md:p-8 print:p-0 print:shadow-none">
         {/* Hidden SVG sprite */}
