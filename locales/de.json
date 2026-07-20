@@ -3,8 +3,102 @@
   "location": "Lakshmipur, Bangladesch",
   "phone": "(+880) 1814 118-328",
   "summaryTitle": "ZUSAMMENFASSUNG",
-  "summaryText": "AWS Cloud Engineer und Full-Stack-Entwickler mit über 10 Jahren Erfahrung in UI/UX-Engineering, Backend-Entwicklung, Cloud-Architektur und Datenbankdesign. Nachgewiesene Führungserfahrung als Senior Backend Engineer mit Verantwortung für Engineering-Teams und der Bereitstellung skalierbarer Web- und Mobile-Lösungen. Umfassende Expertise in PHP, Node.js, Angular, AWS-Serverless-Technologien und containerisierten Umgebungen.",
-  "skillsTitle": "MEINE KENNTNISSE",
+  "summaryText": "AWS-Cloud-Engineer und Full-Stack-Entwickler mit über 10 Jahren Erfahrung in UI/UX-Engineering, Backend-Entwicklung, Cloud-Architektur und Datenbankdesign. Nachgewiesene Führungserfahrung als Senior Backend Engineer mit Verantwortung für Entwicklungsteams und der Bereitstellung skalierbarer Web- und Mobilanwendungen. Umfassende Fachkenntnisse in PHP, Node.js, Angular, serverlosen AWS-Technologien und containerisierten Umgebungen.",
+  "skills": {
+    "title": "MEINE KENNTNISSE",
+    "list": [
+      {
+        "title": "Frontend-Entwicklung",
+        "list": [
+          [
+            "html",
+            "#e85d2a",
+            "HTML, CSS und JavaScript"
+          ],
+          [
+            "figma",
+            "#4fb3a8",
+            "UI/UX-Design und Responsive Benutzeroberflächen"
+          ],
+          [
+            "typescript",
+            "#4a7fb8",
+            "TypeScript und Angular"
+          ]
+        ]
+      },
+      {
+        "title": "Backend-Entwicklung",
+        "list": [
+          [
+            "php",
+            "#6b7fa8",
+            "PHP (Zend-zertifiziert)"
+          ],
+          [
+            "laravel",
+            "#e85d2a",
+            "Laravel-Framework und MVC-Architektur"
+          ],
+          [
+            "nodejs",
+            "#8ab84a",
+            "Node.js (Backend-Entwicklung)"
+          ]
+        ]
+      },
+      {
+        "title": "Datenbanken und Speicherung",
+        "list": [
+          [
+            "database",
+            "#4a7fb8",
+            "MySQL, MongoDB und Datenbankoptimierung"
+          ],
+          [
+            "amazon",
+            "#e8a02a",
+            "Amazon DynamoDB und Redshift"
+          ],
+          [
+            "firebase",
+            "#e85d2a",
+            "Google Firebase"
+          ],
+          [
+            "redis",
+            "#d84a4a",
+            "Redis (ElastiCache) und SOLR"
+          ]
+        ]
+      },
+      {
+        "title": "DevOps und Infrastruktur",
+        "list": [
+          [
+            "docker",
+            "#4a7fb8",
+            "Docker und Containerisierung"
+          ],
+          [
+            "lamp",
+            "#e8a02a",
+            "LAMP-Stack (Linux, Apache, MySQL, PHP)"
+          ]
+        ]
+      },
+      {
+        "title": "Projektmanagement und Arbeitsabläufe",
+        "list": [
+          [
+            "jira",
+            "#4a7fb8",
+            "JIRA und Agile Arbeitsabläufe"
+          ]
+        ]
+      }
+    ]
+  },
   "personalTitle": "PERSÖNLICHE INFORMATIONEN",
   "work": {
     "title": "BERUFSERFAHRUNG",
@@ -14,9 +108,9 @@
         "period": "2017 bis 2023",
         "subTitle": "(Fiverr & Upwork, Inc. – 2017 bis 2023)",
         "points": [
-          "Entwicklung individueller WordPress-Plugins, Browser-Erweiterungen und OpenCart-CMS-Lösungen für internationale Kunden",
-          "Erreichen des Level-Two-Seller-Status durch gleichbleibend hohe Qualität, termingerechte Lieferung und hohe Kundenzufriedenheit",
-          "Zusammenarbeit mit internationalen Kunden zur Analyse von Projektanforderungen und Umsetzung maßgeschneiderter technischer Lösungen"
+          "Entwicklung individueller WordPress-Plugins, Browser-Erweiterungen und OpenCart-CMS-Lösungen für internationale Kunden.",
+          "Erreichte den Status „Level-Two-Seller“ durch gleichbleibend hohe Qualität, termingerechte Lieferung und hohe Kundenzufriedenheit.",
+          "Zusammenarbeit mit internationalen Kunden zur Analyse der Projektanforderungen und Bereitstellung maßgeschneiderter technischer Lösungen."
         ]
       },
       {
@@ -24,9 +118,9 @@
         "period": "2022 bis 2023",
         "subTitle": "(WeTechPro LLC., Paris – 2022 bis 2023)",
         "points": [
-          "Entwicklung individueller WordPress-Plugins für verschiedene Kunden zur Erweiterung der Funktionalität ihrer Websites",
-          "Implementierung sicherer Zahlungs-Gateway-Integrationen und Verbesserung der E-Commerce-Funktionen für Online-Shops",
-          "Laufende Wartung und Aktualisierung zur Sicherstellung von Kompatibilität und Leistung der Plugins"
+          "Entwicklung individueller WordPress-Plugins für verschiedene Kunden mit einzigartigen Funktionen für deren Websites.",
+          "Implementierung sicherer Zahlungs-Gateway-Integrationen und Erweiterung der E-Commerce-Funktionen für Online-Shops.",
+          "Laufende Wartung und Aktualisierung zur Sicherstellung von Kompatibilität und Leistung der Plugins."
         ]
       },
       {
@@ -34,8 +128,8 @@
         "period": "2024 bis 2025",
         "subTitle": "(Web Inspect Inc., Dhaka/Finnland – 2024)",
         "points": [
-          "Entwicklung individueller Plugins und Themes für namhafte Kunden aus Finnland",
-          "Entwicklung einer maßgeschneiderten Lösung für den Nationalen Ärzteverband Finnlands"
+          "Entwicklung individueller Plugins und Themes für namhafte Kunden aus Finnland.",
+          "Entwicklung einer maßgeschneiderten Lösung für den Nationalen Ärzteverband Finnlands."
         ]
       },
       {
@@ -43,19 +137,21 @@
         "period": "2024 bis 2025",
         "subTitle": "(Ecommerized LLC, Abu Dhabi – 2024 bis 2025)",
         "points": [
-          "Leitung der WordPress-Entwicklungsabteilung und Führung eines Remote-Entwicklungsteams",
-          "Koordination von Projektzeitplänen, Code-Reviews und Kundenauslieferungen über mehrere parallele Projekte hinweg",
-          "Auszeichnung mit den Preisen „High Performance“ und „Client Engagement“ im September 2024 sowie im Februar und März 2025",
-          "Eigenständige Gewinnung neuer Kundenverträge durch überzeugende Leistungen und das Vertrauen der Kunden"
+          "Leitung der WordPress-Entwicklungsabteilung und Betreuung eines Teams von Remote-Entwicklern.",
+          "Koordination von Projektzeitplänen, Code-Reviews und Kundenauslieferungen über mehrere parallele Projekte hinweg.",
+          "Ausgezeichnet mit den Preisen für hohe Leistung und Kundenengagement im September 2024, Februar 2025 und März 2025.",
+          "Eigenständige Gewinnung neuer Kundenverträge durch hervorragende Leistungen und das Vertrauen der Kunden."
         ]
       }
     ]
   },
   "age": "Alter – %d Jahre",
-  "birthdate": "Geburtsdatum – 10. Mai 1999",
+  "birthdate": "Geburtsdatum – 10. Mai 2000",
   "nationality": "Staatsangehörigkeit – Bangladeschisch",
   "languages": "Sprachen",
   "english": "Englisch",
   "german": "Deutsch",
-  "french": "Französisch"
+  "french": "Französisch",
+  "arabic": "Arabisch",
+  "aboutme": "Über mich"
 }

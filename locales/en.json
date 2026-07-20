@@ -6,87 +6,95 @@
   "summaryText": "AWS Cloud Engineer and Full-Stack Developer with 10+ years of experience in UI/UX engineering, backend development, cloud architecture, and database design. Proven leadership as Senior Backend Engineer, managing engineering teams and delivering scalable web and mobile solutions. Strong expertise in PHP, Node.js, Angular, AWS serverless technologies, and containerized environments.",
   "skills": {
     "title": "MY SKILLS",
-    "skills": [
+    "list": [
       {
-        "title": "Technical Skills",
-        "skills": [
-          {
-            "title": "Frontend Development",
-            "list": [
-              [
-                "html",
-                "HTML, CSS & JavaScript"
-              ],
-              [
-                "figma",
-                "UI/UX Design & Responsive Interfaces"
-              ],
-              [
-                "typeScript",
-                "TypeScript & Angular"
-              ]
-            ]
-          },
-          {
-            "title": "Backend Development",
-            "list": [
-              [
-                "php",
-                "PHP (Zend Certified)"
-              ],
-              [
-                "laravel",
-                "Laravel Framework & MVC Architecture"
-              ],
-              [
-                "nodejs",
-                "Node.js (Backend Development)"
-              ]
-            ]
-          },
-          {
-            "title": "Databases & Storage",
-            "list": [
-              [
-                "database",
-                "MySQL, MongoDB & Database Optimization"
-              ],
-              [
-                "amazon",
-                "Amazon DynamoDB & Redshift"
-              ],
-              [
-                "firebase",
-                "Google Firebase"
-              ],
-              [
-                "redis",
-                "Redis (ElastiCache) & SOLR"
-              ]
-            ]
-          },
-          {
-            "title": "DevOps & Infrastructure",
-            "list": [
-              [
-                "docker",
-                "Docker & Containerization"
-              ],
-              [
-                "lamp",
-                "LAMP Stack (Linux, Apache, MySQL, PHP)"
-              ]
-            ]
-          },
-          {
-            "title": "Project Management & Workflow",
-            "list": [
-              [
-                "jira",
-                "JIRA & Agile Workflow"
-              ]
-            ]
-          }
+        "title": "Frontend Development",
+        "list": [
+          [
+            "html",
+            "#e85d2a",
+            "HTML, CSS & JavaScript"
+          ],
+          [
+            "figma",
+            "#4fb3a8",
+            "UI/UX Design & Responsive Interfaces"
+          ],
+          [
+            "typescript",
+            "#4a7fb8",
+            "TypeScript & Angular"
+          ]
+        ]
+      },
+      {
+        "title": "Backend Development",
+        "list": [
+          [
+            "php",
+            "#6b7fa8",
+            "PHP (Zend Certified)"
+          ],
+          [
+            "laravel",
+            "#e85d2a",
+            "Laravel Framework & MVC Architecture"
+          ],
+          [
+            "nodejs",
+            "#8ab84a",
+            "Node.js (Backend Development)"
+          ]
+        ]
+      },
+      {
+        "title": "Databases & Storage",
+        "list": [
+          [
+            "database",
+            "#4a7fb8",
+            "MySQL, MongoDB & Database Optimization"
+          ],
+          [
+            "amazon",
+            "#e8a02a",
+            "Amazon DynamoDB & Redshift"
+          ],
+          [
+            "firebase",
+            "#e85d2a",
+            "Google Firebase"
+          ],
+          [
+            "redis",
+            "#d84a4a",
+            "Redis (ElastiCache) & SOLR"
+          ]
+        ]
+      },
+      {
+        "title": "DevOps & Infrastructure",
+        "list": [
+          [
+            "docker",
+            "#4a7fb8",
+            "Docker & Containerization"
+          ],
+          [
+            "lamp",
+            "#e8a02a",
+            "LAMP Stack (Linux, Apache, MySQL, PHP)"
+          ]
+        ]
+      },
+      {
+        "title": "Project Management & Workflow",
+        "list": [
+          [
+            "jira",
+            "#4a7fb8",
+            "JIRA & Agile Workflow"
+          ]
         ]
       }
     ]
@@ -138,11 +146,12 @@
     ]
   },
   "age": "Age – %d Years",
-  "birthdate": "Birthdate – 10th May 1999",
+  "birthdate": "Birthdate – 10th May 2000",
   "nationality": "Nationality – Bangladeshi",
   "languages": "Languages",
   "english": "English",
   "german": "German",
   "french": "French",
-  "arabic": "Arabic"
+  "arabic": "Arabic",
+  "aboutme": "About Me"
 }

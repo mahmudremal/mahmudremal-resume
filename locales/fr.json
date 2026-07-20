@@ -1,61 +1,157 @@
 {
   "name": "REMAL MAHMUD",
-  "location": "Lakshmipur, Bangladesch",
+  "location": "Lakshmipur, Bangladesh",
   "phone": "(+880) 1814 118-328",
-  "summaryTitle": "ZUSAMMENFASSUNG",
-  "summaryText": "AWS Cloud Engineer und Full-Stack-Entwickler mit über 10 Jahren Erfahrung in UI/UX-Engineering, Backend-Entwicklung, Cloud-Architektur und Datenbankdesign. Nachgewiesene Führungserfahrung als Senior Backend Engineer mit Verantwortung für Engineering-Teams und der Bereitstellung skalierbarer Web- und Mobile-Lösungen. Umfassende Expertise in PHP, Node.js, Angular, AWS-Serverless-Technologien und containerisierten Umgebungen.",
-  "skillsTitle": "MEINE KENNTNISSE",
-  "personalTitle": "PERSÖNLICHE INFORMATIONEN",
-  "work": {
-    "title": "BERUFSERFAHRUNG",
-    "history": [
+  "summaryTitle": "RÉSUMÉ",
+  "summaryText": "Ingénieur Cloud AWS et développeur Full-Stack avec plus de 10 ans d'expérience en ingénierie UI/UX, développement backend, architecture cloud et conception de bases de données. Expérience confirmée en tant qu'Ingénieur Backend Senior, avec la gestion d'équipes techniques et la livraison de solutions web et mobiles évolutives. Solide expertise en PHP, Node.js, Angular, technologies serverless AWS et environnements conteneurisés.",
+  "skills": {
+    "title": "MES COMPÉTENCES",
+    "list": [
       {
-        "title": "Full-Stack-Entwickler (Freiberuflich)",
-        "period": "2017 bis 2023",
-        "subTitle": "(Fiverr & Upwork, Inc. – 2017 bis 2023)",
-        "points": [
-          "Entwicklung individueller WordPress-Plugins, Browser-Erweiterungen und OpenCart-CMS-Lösungen für internationale Kunden",
-          "Erreichen des Level-Two-Seller-Status durch gleichbleibend hohe Qualität, termingerechte Lieferung und hohe Kundenzufriedenheit",
-          "Zusammenarbeit mit internationalen Kunden zur Analyse von Projektanforderungen und Umsetzung maßgeschneiderter technischer Lösungen"
+        "title": "Développement Frontend",
+        "list": [
+          [
+            "html",
+            "#e85d2a",
+            "HTML, CSS et JavaScript"
+          ],
+          [
+            "figma",
+            "#4fb3a8",
+            "Conception UI/UX et interfaces adaptatives"
+          ],
+          [
+            "typescript",
+            "#4a7fb8",
+            "TypeScript et Angular"
+          ]
         ]
       },
       {
-        "title": "WordPress-Plugin-Entwickler",
-        "period": "2022 bis 2023",
-        "subTitle": "(WeTechPro LLC., Paris – 2022 bis 2023)",
-        "points": [
-          "Entwicklung individueller WordPress-Plugins für verschiedene Kunden zur Erweiterung der Funktionalität ihrer Websites",
-          "Implementierung sicherer Zahlungs-Gateway-Integrationen und Verbesserung der E-Commerce-Funktionen für Online-Shops",
-          "Laufende Wartung und Aktualisierung zur Sicherstellung von Kompatibilität und Leistung der Plugins"
+        "title": "Développement Backend",
+        "list": [
+          [
+            "php",
+            "#6b7fa8",
+            "PHP (certifié Zend)"
+          ],
+          [
+            "laravel",
+            "#e85d2a",
+            "Framework Laravel et architecture MVC"
+          ],
+          [
+            "nodejs",
+            "#8ab84a",
+            "Node.js (développement backend)"
+          ]
         ]
       },
       {
-        "title": "Senior WordPress-Entwickler",
-        "period": "2024 bis 2025",
-        "subTitle": "(Web Inspect Inc., Dhaka/Finnland – 2024)",
-        "points": [
-          "Entwicklung individueller Plugins und Themes für namhafte Kunden aus Finnland",
-          "Entwicklung einer maßgeschneiderten Lösung für den Nationalen Ärzteverband Finnlands"
+        "title": "Bases de données et stockage",
+        "list": [
+          [
+            "database",
+            "#4a7fb8",
+            "MySQL, MongoDB et optimisation des bases de données"
+          ],
+          [
+            "amazon",
+            "#e8a02a",
+            "Amazon DynamoDB et Redshift"
+          ],
+          [
+            "firebase",
+            "#e85d2a",
+            "Google Firebase"
+          ],
+          [
+            "redis",
+            "#d84a4a",
+            "Redis (ElastiCache) et SOLR"
+          ]
         ]
       },
       {
-        "title": "Leitender WordPress-Entwickler & Projektmanager",
-        "period": "2024 bis 2025",
-        "subTitle": "(Ecommerized LLC, Abu Dhabi – 2024 bis 2025)",
-        "points": [
-          "Leitung der WordPress-Entwicklungsabteilung und Führung eines Remote-Entwicklungsteams",
-          "Koordination von Projektzeitplänen, Code-Reviews und Kundenauslieferungen über mehrere parallele Projekte hinweg",
-          "Auszeichnung mit den Preisen „High Performance“ und „Client Engagement“ im September 2024 sowie im Februar und März 2025",
-          "Eigenständige Gewinnung neuer Kundenverträge durch überzeugende Leistungen und das Vertrauen der Kunden"
+        "title": "DevOps et infrastructure",
+        "list": [
+          [
+            "docker",
+            "#4a7fb8",
+            "Docker et conteneurisation"
+          ],
+          [
+            "lamp",
+            "#e8a02a",
+            "Pile LAMP (Linux, Apache, MySQL, PHP)"
+          ]
+        ]
+      },
+      {
+        "title": "Gestion de projet et flux de travail",
+        "list": [
+          [
+            "jira",
+            "#4a7fb8",
+            "JIRA et méthode Agile"
+          ]
         ]
       }
     ]
   },
-  "age": "Alter – %d Jahre",
-  "birthdate": "Geburtsdatum – 10. Mai 1999",
-  "nationality": "Staatsangehörigkeit – Bangladeschisch",
-  "languages": "Sprachen",
-  "english": "Englisch",
-  "german": "Deutsch",
-  "french": "Französisch"
+  "personalTitle": "INFORMATIONS PERSONNELLES",
+  "work": {
+    "title": "EXPÉRIENCE PROFESSIONNELLE",
+    "history": [
+      {
+        "title": "Développeur Full-Stack (Freelance)",
+        "period": "2017 à 2023",
+        "subTitle": "(Fiverr & Upwork, Inc. – 2017 à 2023)",
+        "points": [
+          "Développement de plugins WordPress personnalisés, d'extensions de navigateur et de solutions OpenCart CMS pour des clients internationaux.",
+          "Obtention du statut de vendeur Niveau Deux grâce à une qualité constante, au respect des délais et à la satisfaction des clients.",
+          "Collaboration avec des clients internationaux afin de comprendre leurs besoins et de fournir des solutions techniques sur mesure."
+        ]
+      },
+      {
+        "title": "Développeur de plugins WordPress",
+        "period": "2022 à 2023",
+        "subTitle": "(WeTechPro LLC., Paris – 2022 à 2023)",
+        "points": [
+          "Développement de plugins WordPress personnalisés pour divers clients, en ajoutant des fonctionnalités uniques à leurs sites web.",
+          "Mise en œuvre d'intégrations sécurisées de passerelles de paiement et amélioration des fonctionnalités e-commerce des boutiques en ligne.",
+          "Maintenance continue et mises à jour afin d'assurer la compatibilité et les performances des plugins."
+        ]
+      },
+      {
+        "title": "Développeur WordPress Senior",
+        "period": "2024 à 2025",
+        "subTitle": "(Web Inspect Inc., Dacca/Finlande – 2024)",
+        "points": [
+          "Développement de plugins et de thèmes personnalisés pour des clients prestigieux basés en Finlande.",
+          "Création d'une solution sur mesure pour l'Association nationale des médecins de Finlande."
+        ]
+      },
+      {
+        "title": "Responsable du développement WordPress et Chef de projet",
+        "period": "2024 à 2025",
+        "subTitle": "(Ecommerized LLC, Abou Dhabi – 2024 à 2025)",
+        "points": [
+          "Direction du département de développement WordPress et supervision d'une équipe de développeurs à distance.",
+          "Coordination des calendriers de projet, des revues de code et des livraisons clients sur plusieurs projets simultanés.",
+          "Récompensé par les prix de Haute Performance et d'Engagement Client en septembre 2024, février 2025 et mars 2025.",
+          "Obtention de nouveaux contrats clients grâce à ses performances et à la confiance des clients."
+        ]
+      }
+    ]
+  },
+  "age": "Âge – %d ans",
+  "birthdate": "Date de naissance – 10 mai 2000",
+  "nationality": "Nationalité – Bangladaise",
+  "languages": "Langues",
+  "english": "Anglais",
+  "german": "Allemand",
+  "french": "Français",
+  "arabic": "Arabe",
+  "aboutme": "À propos de moi"
 }
