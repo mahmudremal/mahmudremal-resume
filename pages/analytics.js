@@ -15,9 +15,8 @@ export default function AnalyticsTracker() {
 
         const trackVisitor = async () => {
             try {
-                const protocol = window.location.protocol === 'https:' ? 'https' : 'http';
-                const ipRes = await fetch(`${protocol}://ip-api.com/json`);
-                const ipData = await ipRes.json();
+                const res = await fetch("https://ipwho.is/");
+                const ipData = await res.json();
 
                 const [navigation] = performance.getEntriesByType("navigation");
                 const loadTimeMs = navigation?.duration ?? null;
@@ -30,9 +29,10 @@ export default function AnalyticsTracker() {
                     region: ipData?.regionName ?? '',
                     country: ipData?.country_name ?? ipData?.country ?? '',
                     ip: ipData?.ip ?? ipData?.query ?? '',
-                    lat: ipData?.lat ?? '',
-                    lon: ipData?.lon ?? '',
+                    lat: ipData?.lat ?? ipData?.latitude ?? '',
+                    lon: ipData?.lon ?? ipData?.longitude ?? '',
                     load_time_ms: loadTimeMs,
+                    timezone: ipData?.timezone ?? {}
                 };
 
 
