@@ -3,7 +3,7 @@
   "location": "Lakshmipur, Bangladesch",
   "phone": "(+880) 1814 118-328",
   "summaryTitle": "ZUSAMMENFASSUNG",
-  "summaryText": "Cloud-Ingenieur und Full-Stack-Entwickler mit mehr als 10 Jahren Erfahrung in der Entwicklung von Benutzeroberflächen und Benutzererlebnissen, Backend-Entwicklung, Cloud-Architektur und Datenbankdesign. Nachgewiesene Führungserfahrung als leitender Backend-Ingenieur mit Verantwortung für Entwicklungsteams und der Bereitstellung skalierbarer Web- und Mobilanwendungen. Umfassende Fachkenntnisse in Backend-Entwicklung, Cloud-Technologien, serverlosen Architekturen und containerbasierten Umgebungen.",
+  "summaryText": "AWS Cloud Engineer und Full-Stack-Entwickler mit über 10 Jahren Erfahrung in UI/UX-Engineering, Backend-Entwicklung, Cloud-Architektur und Datenbankdesign. Nachgewiesene Führungserfahrung als Senior Backend Engineer mit der Leitung von Entwicklungsteams und der Bereitstellung skalierbarer Web- und Mobile-Lösungen. Umfassende Kenntnisse in PHP, Node.js, Angular, AWS-Serverless-Technologien und containerisierten Umgebungen.",
   "skills": {
     "title": "MEINE FÄHIGKEITEN",
     "list": [
@@ -13,12 +13,12 @@
           [
             "typescript",
             "#4a7fb8",
-            "Frontend-Entwicklung • Desktop-Anwendungen"
+            "TypeScript • Angular • ElectronJS"
           ],
           [
             "figma",
             "#4fb3a8",
-            "Benutzeroberflächen- und Nutzererlebnisdesign • Responsive Oberflächen"
+            "UI/UX-Design & Responsive Benutzeroberflächen"
           ]
         ]
       },
@@ -28,77 +28,72 @@
           [
             "php",
             "#6b7fa8",
-            "Zertifizierter Backend-Entwickler"
+            "PHP (Zend-zertifiziert)"
           ],
           [
             "laravel",
             "#e85d2a",
-            "Anwendungsframework mit Modell-Ansicht-Steuerung"
+            "Laravel Framework & MVC-Architektur"
           ],
           [
             "nodejs",
             "#8ab84a",
-            "Backend-Entwicklung"
+            "Node.js • NestJS (Backend-Entwicklung)"
           ],
           [
             "topology",
             "#e85d2a",
-            "Microservices • Systemarchitektur • Programmierschnittstellen"
+            "Microservices • Systemdesign • REST/gRPC"
           ]
         ]
       },
       {
-        "title": "Datenbanken und Speicherung",
+        "title": "Datenbanken & Speicher",
         "list": [
           [
             "database",
             "#4a7fb8",
-            "Datenbanken und Leistungsoptimierung"
+            "MongoDB • PostgreSQL & Datenbankoptimierung"
           ],
           [
             "amazon",
             "#e8a02a",
-            "Cloud-Datenbanken und Datenanalyse"
-          ],
-          [
-            "firebase",
-            "#e85d2a",
-            "Cloud-Plattform für Anwendungen"
+            "Amazon DynamoDB & Redshift"
           ],
           [
             "redis",
             "#d84a4a",
-            "Zwischenspeicherung und Suchsysteme"
+            "Redis (ElastiCache) • Kafka • NATS • AWS & SOLR"
           ],
           [
-            "kafka",
-            "#09283D",
-            "Datenbanken • Zwischenspeicherung • Nachrichtensysteme • Cloud-Computing"
+            "firebase",
+            "#e85d2a",
+            "Google Firebase"
           ]
         ]
       },
       {
-        "title": "DevOps und Infrastruktur",
+        "title": "DevOps & Infrastruktur",
         "list": [
           [
             "docker",
             "#4a7fb8",
-            "Containerisierung und Umgebungsverwaltung"
+            "Docker & Containerisierung"
           ],
           [
             "lamp",
             "#e8a02a",
-            "Entwicklungsumgebung mit Linux, Webserver, Datenbank und Programmiersprache"
+            "LAMP-Stack (Linux, Apache, MySQL, PHP)"
           ]
         ]
       },
       {
-        "title": "Projektmanagement und Arbeitsabläufe",
+        "title": "Projektmanagement & Arbeitsabläufe",
         "list": [
           [
             "jira",
             "#4a7fb8",
-            "Projektmanagement und agile Arbeitsweise"
+            "JIRA & Agile Arbeitsabläufe"
           ]
         ]
       }
@@ -109,50 +104,50 @@
     "title": "BERUFSERFAHRUNG",
     "history": [
       {
-        "title": "Freiberuflicher Full-Stack-Entwickler",
+        "title": "Full-Stack-Entwickler (Freiberuflich)",
         "period": "2017 bis 2023",
-        "subTitle": "(Freiberufliche Plattformen – 2017 bis 2023)",
+        "subTitle": "(Fiverr & Upwork, Inc. – 2017 bis 2023)",
         "points": [
-          "Entwicklung maßgeschneiderter Erweiterungen für Content-Management-Systeme, Browser-Erweiterungen und individueller Lösungen für Kunden weltweit.",
-          "Erreichen des Verkäuferstatus der zweiten Stufe durch gleichbleibend hohe Qualität, termingerechte Lieferung und hohe Kundenzufriedenheit.",
-          "Zusammenarbeit mit internationalen Kunden zur Analyse der Projektanforderungen und Umsetzung individueller technischer Lösungen."
+          "Entwicklung individueller WordPress-Plugins, Browser-Erweiterungen und OpenCart-CMS-Lösungen für internationale Kunden",
+          "Erreichen des Level-Two-Seller-Status durch gleichbleibend hohe Qualität, termingerechte Lieferung und Kundenzufriedenheit",
+          "Zusammenarbeit mit internationalen Kunden zur Analyse der Projektanforderungen und Bereitstellung maßgeschneiderter technischer Lösungen"
         ]
       },
       {
-        "title": "Entwickler für Erweiterungen von Content-Management-Systemen",
+        "title": "WordPress-Plugin-Entwickler",
         "period": "2022 bis 2023",
-        "subTitle": "(Unternehmen in Paris – 2022 bis 2023)",
+        "subTitle": "(WeTechPro LLC., Paris – 2022 bis 2023)",
         "points": [
-          "Entwicklung individueller Erweiterungen für verschiedene Kunden mit neuen Funktionen für deren Webseiten.",
-          "Implementierung sicherer Zahlungslösungen und Erweiterung der Funktionen für den elektronischen Handel.",
-          "Kontinuierliche Wartung und Aktualisierung zur Sicherstellung von Kompatibilität und Leistung."
+          "Entwicklung individueller WordPress-Plugins für verschiedene Kunden mit einzigartigen Funktionen für deren Websites",
+          "Implementierung sicherer Zahlungs-Gateway-Integrationen und Erweiterung der E-Commerce-Funktionen für Online-Shops",
+          "Kontinuierliche Wartung und Aktualisierung zur Sicherstellung von Kompatibilität und Leistung der Plugins"
         ]
       },
       {
-        "title": "Senior-Entwickler für Content-Management-Systeme",
+        "title": "Senior WordPress-Entwickler",
         "period": "2024 bis 2025",
-        "subTitle": "(Unternehmen in Dhaka/Finnland – 2024)",
+        "subTitle": "(Web Inspect Inc., Dhaka/Finnland – 2024)",
         "points": [
-          "Entwicklung individueller Erweiterungen und Designs für namhafte Kunden in Finnland.",
-          "Erstellung einer maßgeschneiderten Lösung für den nationalen Ärzteverband Finnlands."
+          "Entwicklung individueller Plugins und Themes für renommierte Kunden aus Finnland",
+          "Erstellung einer maßgeschneiderten Lösung für den finnischen Nationalen Ärzteverband"
         ]
       },
       {
-        "title": "Leitender Entwickler und Projektmanager",
+        "title": "Leitender WordPress-Entwickler & Projektmanager",
         "period": "2024 bis 2025",
-        "subTitle": "(Unternehmen in Abu Dhabi – 2024 bis 2025)",
+        "subTitle": "(Ecommerized LLC, Abu Dhabi – 2024 bis 2025)",
         "points": [
-          "Leitung der Entwicklungsabteilung und Betreuung eines verteilten Entwicklerteams.",
-          "Koordination von Projektzeitplänen, Code-Überprüfungen und Auslieferungen für mehrere gleichzeitige Projekte.",
-          "Auszeichnung für hervorragende Leistung und Kundenbetreuung im September 2024 sowie Februar und März 2025.",
-          "Gewinnung neuer Kundenverträge durch überzeugende Leistungen und hohes Kundenvertrauen."
+          "Leitung der WordPress-Entwicklungsabteilung und Betreuung eines Remote-Entwicklungsteams",
+          "Koordination von Projektzeitplänen, Code-Reviews und Kundenauslieferungen für mehrere parallele Projekte",
+          "Auszeichnung mit High Performance & Client Engagement Awards im September 2024 sowie Februar und März 2025",
+          "Eigenständige Gewinnung neuer Kundenverträge durch hervorragende Leistungen und Kundenvertrauen"
         ]
       }
     ]
   },
   "age": "Alter – %d Jahre",
-  "birthdate": "Geburtsdatum – 10. Mai 2000",
-  "nationality": "Staatsangehörigkeit – Bangladeschisch",
+  "birthdate": "Geburtsdatum – 15. Mai 2000",
+  "nationality": "Nationalität – Bangladeschisch",
   "languages": "Sprachen",
   "english": "Englisch",
   "german": "Deutsch",

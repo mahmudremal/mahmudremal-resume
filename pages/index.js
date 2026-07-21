@@ -59,7 +59,7 @@ export default function Home() {
 
   return (
     <>
-      <AnalyticsTracker />
+      {/* <AnalyticsTracker /> */}
       <SeoHead />
       <div className="min-h-screen bg-[#C6D4B6] flex items-center justify-center p-4 md:p-8 print:p-0 print:shadow-none">
         {/* Hidden SVG sprite */}
@@ -533,7 +533,7 @@ export default function Home() {
                 <div className="space-y-6">
 
                   {/* Work Experience Item */}
-                  {t.work.history.map(({ title, subTitle, points }, wIndex) => (
+                  {[...t.work.history].reverse().map(({ title, subTitle, points }, wIndex) => (
                     <div key={wIndex} className="relative pl-6 border-l-2 border-[#FFFFFF29]">
                       <div className="absolute -left-2 top-0 w-4 h-4 rounded-full bg-[#FEFD7F]"></div>
                       <h3 className="text-base font-bold mb-1 flex items-center gap-2">

@@ -3,47 +3,47 @@
   "location": "Lakshmipur, Bangladesh",
   "phone": "(+880) 1814 118-328",
   "summaryTitle": "RÉSUMÉ",
-  "summaryText": "Ingénieur en informatique en nuage et développeur Full-Stack avec plus de 10 ans d'expérience dans le développement d'interfaces utilisateur, l'expérience utilisateur, le développement d'applications côté serveur, l'architecture en nuage et la conception de bases de données. Expérience confirmée en tant qu'ingénieur principal des systèmes côté serveur, avec la direction d'équipes techniques et la réalisation de solutions web et mobiles évolutives. Solide expertise en développement côté serveur, architecture en nuage, technologies sans serveur et environnements conteneurisés.",
+  "summaryText": "Ingénieur Cloud AWS et développeur Full-Stack avec plus de 10 ans d'expérience en ingénierie UI/UX, développement backend, architecture cloud et conception de bases de données. Expérience confirmée en tant qu'Ingénieur Backend Senior, dirigeant des équipes d'ingénierie et livrant des solutions web et mobiles évolutives. Solide expertise en PHP, Node.js, Angular, technologies AWS Serverless et environnements conteneurisés.",
   "skills": {
     "title": "MES COMPÉTENCES",
     "list": [
       {
-        "title": "Développement Front-End",
+        "title": "Développement Frontend",
         "list": [
           [
             "typescript",
             "#4a7fb8",
-            "Développement d'interfaces utilisateur • Applications de bureau"
+            "TypeScript • Angular • ElectronJS"
           ],
           [
             "figma",
             "#4fb3a8",
-            "Conception d'interfaces et expérience utilisateur • Interfaces adaptatives"
+            "Conception UI/UX et interfaces responsives"
           ]
         ]
       },
       {
-        "title": "Développement Back-End",
+        "title": "Développement Backend",
         "list": [
           [
             "php",
             "#6b7fa8",
-            "Développeur côté serveur certifié"
+            "PHP (certifié Zend)"
           ],
           [
             "laravel",
             "#e85d2a",
-            "Cadre de développement suivant l'architecture Modèle-Vue-Contrôleur"
+            "Framework Laravel et architecture MVC"
           ],
           [
             "nodejs",
             "#8ab84a",
-            "Développement d'applications côté serveur"
+            "Node.js • NestJS (développement backend)"
           ],
           [
             "topology",
             "#e85d2a",
-            "Microservices • Architecture des systèmes • Interfaces de programmation"
+            "Microservices • Conception de systèmes • REST/gRPC"
           ]
         ]
       },
@@ -53,27 +53,22 @@
           [
             "database",
             "#4a7fb8",
-            "Bases de données et optimisation des performances"
+            "MongoDB • PostgreSQL et optimisation des bases de données"
           ],
           [
             "amazon",
             "#e8a02a",
-            "Bases de données en nuage et analyse des données"
-          ],
-          [
-            "firebase",
-            "#e85d2a",
-            "Plateforme infonuagique pour applications"
+            "Amazon DynamoDB et Redshift"
           ],
           [
             "redis",
             "#d84a4a",
-            "Mémoire cache et moteur de recherche"
+            "Redis (ElastiCache) • Kafka • NATS • AWS et SOLR"
           ],
           [
-            "kafka",
-            "#09283D",
-            "Bases de données • Mémoire cache • Messagerie • Informatique en nuage"
+            "firebase",
+            "#e85d2a",
+            "Google Firebase"
           ]
         ]
       },
@@ -83,12 +78,12 @@
           [
             "docker",
             "#4a7fb8",
-            "Conteneurisation et gestion des environnements"
+            "Docker et conteneurisation"
           ],
           [
             "lamp",
             "#e8a02a",
-            "Environnement de développement basé sur Linux, serveur web, base de données et langage de programmation"
+            "Pile LAMP (Linux, Apache, MySQL, PHP)"
           ]
         ]
       },
@@ -98,7 +93,7 @@
           [
             "jira",
             "#4a7fb8",
-            "Gestion de projet et méthode Agile"
+            "JIRA et méthodologie Agile"
           ]
         ]
       }
@@ -109,49 +104,49 @@
     "title": "EXPÉRIENCE PROFESSIONNELLE",
     "history": [
       {
-        "title": "Développeur Full-Stack indépendant",
+        "title": "Développeur Full-Stack (Freelance)",
         "period": "2017 à 2023",
-        "subTitle": "(Plateformes de travail indépendant – 2017 à 2023)",
+        "subTitle": "(Fiverr & Upwork, Inc. – 2017 à 2023)",
         "points": [
-          "Développement d'extensions personnalisées pour des systèmes de gestion de contenu, d'extensions de navigateur et de solutions sur mesure pour des clients internationaux.",
-          "Obtention du statut de vendeur de niveau deux grâce à une qualité constante, au respect des délais et à la satisfaction des clients.",
-          "Collaboration avec des clients internationaux afin d'analyser les besoins des projets et de fournir des solutions techniques adaptées."
+          "Développement de plugins WordPress personnalisés, d'extensions de navigateur et de solutions OpenCart CMS pour des clients internationaux",
+          "Obtention du statut de vendeur Niveau Deux grâce à une qualité constante, au respect des délais et à la satisfaction des clients",
+          "Collaboration avec des clients internationaux afin de comprendre leurs besoins et de fournir des solutions techniques sur mesure"
         ]
       },
       {
-        "title": "Développeur d'extensions pour systèmes de gestion de contenu",
+        "title": "Développeur de plugins WordPress",
         "period": "2022 à 2023",
-        "subTitle": "(Entreprise à Paris – 2022 à 2023)",
+        "subTitle": "(WeTechPro LLC., Paris – 2022 à 2023)",
         "points": [
-          "Création d'extensions personnalisées pour différents clients afin d'ajouter de nouvelles fonctionnalités à leurs sites web.",
-          "Mise en œuvre de solutions de paiement sécurisées et amélioration des fonctionnalités de commerce électronique.",
-          "Maintenance continue et mises à jour afin de garantir la compatibilité et les performances."
+          "Développement de plugins WordPress personnalisés pour divers clients en ajoutant des fonctionnalités uniques à leurs sites web",
+          "Mise en œuvre d'intégrations sécurisées de passerelles de paiement et amélioration des fonctionnalités e-commerce des boutiques en ligne",
+          "Maintenance continue et mises à jour afin d'assurer la compatibilité et les performances des plugins"
         ]
       },
       {
-        "title": "Développeur principal pour systèmes de gestion de contenu",
+        "title": "Développeur WordPress Senior",
         "period": "2024 à 2025",
-        "subTitle": "(Entreprise à Dhaka / Finlande – 2024)",
+        "subTitle": "(Web Inspect Inc., Dhaka/Finlande – 2024)",
         "points": [
-          "Développement d'extensions et de thèmes personnalisés pour des clients prestigieux en Finlande.",
-          "Conception d'une solution sur mesure pour l'Association nationale des médecins de Finlande."
+          "Développement de plugins et de thèmes personnalisés pour des clients prestigieux basés en Finlande",
+          "Création d'une solution sur mesure pour l'Association nationale des médecins de Finlande"
         ]
       },
       {
-        "title": "Responsable du développement et chef de projet",
+        "title": "Lead Développeur WordPress & Chef de projet",
         "period": "2024 à 2025",
-        "subTitle": "(Entreprise à Abou Dhabi – 2024 à 2025)",
+        "subTitle": "(Ecommerized LLC, Abou Dhabi – 2024 à 2025)",
         "points": [
-          "Direction du département de développement et supervision d'une équipe de développeurs à distance.",
-          "Coordination des calendriers de projets, des revues de code et des livraisons clients sur plusieurs projets simultanés.",
-          "Récompensé pour ses performances exceptionnelles et son engagement auprès des clients en septembre 2024, février 2025 et mars 2025.",
-          "Obtention de nouveaux contrats grâce à la qualité du travail fourni et à la confiance des clients."
+          "Direction du département de développement WordPress et supervision d'une équipe de développeurs à distance",
+          "Coordination des calendriers de projets, des revues de code et des livraisons clients sur plusieurs projets simultanés",
+          "Récompensé par les prix High Performance & Client Engagement en septembre 2024, février 2025 et mars 2025",
+          "Obtention de nouveaux contrats clients de manière autonome grâce à des performances remarquables et à la confiance des clients"
         ]
       }
     ]
   },
   "age": "Âge – %d ans",
-  "birthdate": "Date de naissance – 10 mai 2000",
+  "birthdate": "Date de naissance – 15 mai 2000",
   "nationality": "Nationalité – Bangladaise",
   "languages": "Langues",
   "english": "Anglais",
