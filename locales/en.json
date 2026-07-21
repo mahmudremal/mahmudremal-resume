@@ -11,19 +11,14 @@
         "title": "Frontend Development",
         "list": [
           [
-            "html",
-            "#e85d2a",
-            "HTML, CSS & JavaScript"
+            "typescript",
+            "#4a7fb8",
+            "TypeScript • Angular • ElectronJS"
           ],
           [
             "figma",
             "#4fb3a8",
             "UI/UX Design & Responsive Interfaces"
-          ],
-          [
-            "typescript",
-            "#4a7fb8",
-            "TypeScript & Angular"
           ]
         ]
       },
@@ -43,7 +38,12 @@
           [
             "nodejs",
             "#8ab84a",
-            "Node.js (Backend Development)"
+            "Node.js • NestJS (Backend Development)"
+          ],
+          [
+            "topology",
+            "#e85d2a",
+            "Microservices • System Design • REST/gRPC"
           ]
         ]
       },
@@ -69,6 +69,11 @@
             "redis",
             "#d84a4a",
             "Redis (ElastiCache) & SOLR"
+          ],
+          [
+            "kafka",
+            "#09283D",
+            "PostgreSQL • Redis • Kafka • NATS • AWS"
           ]
         ]
       },

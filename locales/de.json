@@ -3,27 +3,22 @@
   "location": "Lakshmipur, Bangladesch",
   "phone": "(+880) 1814 118-328",
   "summaryTitle": "ZUSAMMENFASSUNG",
-  "summaryText": "AWS-Cloud-Engineer und Full-Stack-Entwickler mit über 10 Jahren Erfahrung in UI/UX-Engineering, Backend-Entwicklung, Cloud-Architektur und Datenbankdesign. Nachgewiesene Führungserfahrung als Senior Backend Engineer mit Verantwortung für Entwicklungsteams und der Bereitstellung skalierbarer Web- und Mobilanwendungen. Umfassende Fachkenntnisse in PHP, Node.js, Angular, serverlosen AWS-Technologien und containerisierten Umgebungen.",
+  "summaryText": "Cloud-Ingenieur und Full-Stack-Entwickler mit mehr als 10 Jahren Erfahrung in der Entwicklung von Benutzeroberflächen und Benutzererlebnissen, Backend-Entwicklung, Cloud-Architektur und Datenbankdesign. Nachgewiesene Führungserfahrung als leitender Backend-Ingenieur mit Verantwortung für Entwicklungsteams und der Bereitstellung skalierbarer Web- und Mobilanwendungen. Umfassende Fachkenntnisse in Backend-Entwicklung, Cloud-Technologien, serverlosen Architekturen und containerbasierten Umgebungen.",
   "skills": {
-    "title": "MEINE KENNTNISSE",
+    "title": "MEINE FÄHIGKEITEN",
     "list": [
       {
         "title": "Frontend-Entwicklung",
         "list": [
           [
-            "html",
-            "#e85d2a",
-            "HTML, CSS und JavaScript"
+            "typescript",
+            "#4a7fb8",
+            "Frontend-Entwicklung • Desktop-Anwendungen"
           ],
           [
             "figma",
             "#4fb3a8",
-            "UI/UX-Design und Responsive Benutzeroberflächen"
-          ],
-          [
-            "typescript",
-            "#4a7fb8",
-            "TypeScript und Angular"
+            "Benutzeroberflächen- und Nutzererlebnisdesign • Responsive Oberflächen"
           ]
         ]
       },
@@ -33,17 +28,22 @@
           [
             "php",
             "#6b7fa8",
-            "PHP (Zend-zertifiziert)"
+            "Zertifizierter Backend-Entwickler"
           ],
           [
             "laravel",
             "#e85d2a",
-            "Laravel-Framework und MVC-Architektur"
+            "Anwendungsframework mit Modell-Ansicht-Steuerung"
           ],
           [
             "nodejs",
             "#8ab84a",
-            "Node.js (Backend-Entwicklung)"
+            "Backend-Entwicklung"
+          ],
+          [
+            "topology",
+            "#e85d2a",
+            "Microservices • Systemarchitektur • Programmierschnittstellen"
           ]
         ]
       },
@@ -53,22 +53,27 @@
           [
             "database",
             "#4a7fb8",
-            "MySQL, MongoDB und Datenbankoptimierung"
+            "Datenbanken und Leistungsoptimierung"
           ],
           [
             "amazon",
             "#e8a02a",
-            "Amazon DynamoDB und Redshift"
+            "Cloud-Datenbanken und Datenanalyse"
           ],
           [
             "firebase",
             "#e85d2a",
-            "Google Firebase"
+            "Cloud-Plattform für Anwendungen"
           ],
           [
             "redis",
             "#d84a4a",
-            "Redis (ElastiCache) und SOLR"
+            "Zwischenspeicherung und Suchsysteme"
+          ],
+          [
+            "kafka",
+            "#09283D",
+            "Datenbanken • Zwischenspeicherung • Nachrichtensysteme • Cloud-Computing"
           ]
         ]
       },
@@ -78,12 +83,12 @@
           [
             "docker",
             "#4a7fb8",
-            "Docker und Containerisierung"
+            "Containerisierung und Umgebungsverwaltung"
           ],
           [
             "lamp",
             "#e8a02a",
-            "LAMP-Stack (Linux, Apache, MySQL, PHP)"
+            "Entwicklungsumgebung mit Linux, Webserver, Datenbank und Programmiersprache"
           ]
         ]
       },
@@ -93,7 +98,7 @@
           [
             "jira",
             "#4a7fb8",
-            "JIRA und Agile Arbeitsabläufe"
+            "Projektmanagement und agile Arbeitsweise"
           ]
         ]
       }
@@ -104,43 +109,43 @@
     "title": "BERUFSERFAHRUNG",
     "history": [
       {
-        "title": "Full-Stack-Entwickler (Freiberuflich)",
+        "title": "Freiberuflicher Full-Stack-Entwickler",
         "period": "2017 bis 2023",
-        "subTitle": "(Fiverr & Upwork, Inc. – 2017 bis 2023)",
+        "subTitle": "(Freiberufliche Plattformen – 2017 bis 2023)",
         "points": [
-          "Entwicklung individueller WordPress-Plugins, Browser-Erweiterungen und OpenCart-CMS-Lösungen für internationale Kunden.",
-          "Erreichte den Status „Level-Two-Seller“ durch gleichbleibend hohe Qualität, termingerechte Lieferung und hohe Kundenzufriedenheit.",
-          "Zusammenarbeit mit internationalen Kunden zur Analyse der Projektanforderungen und Bereitstellung maßgeschneiderter technischer Lösungen."
+          "Entwicklung maßgeschneiderter Erweiterungen für Content-Management-Systeme, Browser-Erweiterungen und individueller Lösungen für Kunden weltweit.",
+          "Erreichen des Verkäuferstatus der zweiten Stufe durch gleichbleibend hohe Qualität, termingerechte Lieferung und hohe Kundenzufriedenheit.",
+          "Zusammenarbeit mit internationalen Kunden zur Analyse der Projektanforderungen und Umsetzung individueller technischer Lösungen."
         ]
       },
       {
-        "title": "WordPress-Plugin-Entwickler",
+        "title": "Entwickler für Erweiterungen von Content-Management-Systemen",
         "period": "2022 bis 2023",
-        "subTitle": "(WeTechPro LLC., Paris – 2022 bis 2023)",
+        "subTitle": "(Unternehmen in Paris – 2022 bis 2023)",
         "points": [
-          "Entwicklung individueller WordPress-Plugins für verschiedene Kunden mit einzigartigen Funktionen für deren Websites.",
-          "Implementierung sicherer Zahlungs-Gateway-Integrationen und Erweiterung der E-Commerce-Funktionen für Online-Shops.",
-          "Laufende Wartung und Aktualisierung zur Sicherstellung von Kompatibilität und Leistung der Plugins."
+          "Entwicklung individueller Erweiterungen für verschiedene Kunden mit neuen Funktionen für deren Webseiten.",
+          "Implementierung sicherer Zahlungslösungen und Erweiterung der Funktionen für den elektronischen Handel.",
+          "Kontinuierliche Wartung und Aktualisierung zur Sicherstellung von Kompatibilität und Leistung."
         ]
       },
       {
-        "title": "Senior WordPress-Entwickler",
+        "title": "Senior-Entwickler für Content-Management-Systeme",
         "period": "2024 bis 2025",
-        "subTitle": "(Web Inspect Inc., Dhaka/Finnland – 2024)",
+        "subTitle": "(Unternehmen in Dhaka/Finnland – 2024)",
         "points": [
-          "Entwicklung individueller Plugins und Themes für namhafte Kunden aus Finnland.",
-          "Entwicklung einer maßgeschneiderten Lösung für den Nationalen Ärzteverband Finnlands."
+          "Entwicklung individueller Erweiterungen und Designs für namhafte Kunden in Finnland.",
+          "Erstellung einer maßgeschneiderten Lösung für den nationalen Ärzteverband Finnlands."
         ]
       },
       {
-        "title": "Leitender WordPress-Entwickler & Projektmanager",
+        "title": "Leitender Entwickler und Projektmanager",
         "period": "2024 bis 2025",
-        "subTitle": "(Ecommerized LLC, Abu Dhabi – 2024 bis 2025)",
+        "subTitle": "(Unternehmen in Abu Dhabi – 2024 bis 2025)",
         "points": [
-          "Leitung der WordPress-Entwicklungsabteilung und Betreuung eines Teams von Remote-Entwicklern.",
-          "Koordination von Projektzeitplänen, Code-Reviews und Kundenauslieferungen über mehrere parallele Projekte hinweg.",
-          "Ausgezeichnet mit den Preisen für hohe Leistung und Kundenengagement im September 2024, Februar 2025 und März 2025.",
-          "Eigenständige Gewinnung neuer Kundenverträge durch hervorragende Leistungen und das Vertrauen der Kunden."
+          "Leitung der Entwicklungsabteilung und Betreuung eines verteilten Entwicklerteams.",
+          "Koordination von Projektzeitplänen, Code-Überprüfungen und Auslieferungen für mehrere gleichzeitige Projekte.",
+          "Auszeichnung für hervorragende Leistung und Kundenbetreuung im September 2024 sowie Februar und März 2025.",
+          "Gewinnung neuer Kundenverträge durch überzeugende Leistungen und hohes Kundenvertrauen."
         ]
       }
     ]

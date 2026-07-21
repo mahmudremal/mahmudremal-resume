@@ -472,14 +472,12 @@ export default function Home() {
                   </h2>
                 </div>
                 <div className="grid grid-cols-1 lg:grid-cols-1 gap-4">
-                  {/* Frontend Development */}
                   {t.skills.list.map(({ title, list: skillset = [] }, skillCatIndex) => (
                     <div key={skillCatIndex} className="mb-6">
                       <h3 className="text-base font-bold text-white mb-3">
                         {title}
                       </h3>
                       <div className="grid grid-cols-1 gap-3">
-                        {/* HTML, CSS & JavaScript */}
                         {skillset.map(([icon, bgColor, itemTitle], itemIndex) => (
                           <div key={itemIndex} className="flex items-center gap-2">
                             <div className="w-8 h-8 rounded-2xl flex items-center justify-center flex-shrink-0" style={{ backgroundColor: bgColor }}>
