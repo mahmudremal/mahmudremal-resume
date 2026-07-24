@@ -7,10 +7,11 @@ import de from "../locales/de.json";
 import fr from "../locales/fr.json";
 import ar from "../locales/ar.json";
 import ProfileImage from "../images/mahmudremal.png";
-import SeoHead from "./SeoHead";
+import SeoHead from "../components/SeoHead";
 import { sprintf } from "sprintf";
-import Icons from "./icons";
-import AnalyticsTracker from "./analytics";
+import Icons from "../components/icons";
+import AnalyticsTracker from "../components/analytics";
+import portfolioData from "../data/portfolios.json";
 
 const translations = { en, de, fr, ar };
 
@@ -570,6 +571,47 @@ export default function Home() {
                       </ul>
                     </div>
                   ))}
+
+                  {/* Minimal Portfolio Section */}
+                  <div className="mt-10 pt-8 border-t border-[#FFFFFF29]">
+                    <div className="flex items-center justify-between mb-6">
+                      <h2 className="text-xl font-bold uppercase tracking-wide">
+                        PORTFOLIO
+                      </h2>
+                      <Link
+                        href="/portfolios"
+                        className="text-xs font-semibold text-[#FEFD7F] hover:underline flex items-center gap-1 transition-all"
+                      >
+                        <span>View All Portfolios</span>
+                        <span>&rarr;</span>
+                      </Link>
+                    </div>
+
+                    <div className="space-y-5">
+                      {portfolioData.filter(p => p.featured).slice(0, 2).map((item) => {
+                        const appType = typeof item.applicationType === 'object' ? (item.applicationType[locale] || item.applicationType.en) : item.applicationType;
+                        const title = typeof item.title === 'object' ? (item.title[locale] || item.title.en) : item.title;
+                        const excerpt = typeof item.excerpt === 'object' ? (item.excerpt[locale] || item.excerpt.en) : item.excerpt;
+                        return (
+                          <div key={item.slug} className="relative pl-6 border-l-2 border-[#FFFFFF29]">
+                            <div className="absolute -left-2 top-1.5 w-3.5 h-3.5 rounded-full bg-[#FEFD7F]"></div>
+                            <div className="flex items-center justify-between text-xs text-white/70 mb-1">
+                              <span className="font-semibold text-[#c8db5e]">{appType}</span>
+                              <span className="font-mono text-xs">{item.year}</span>
+                            </div>
+                            <h3 className="text-sm font-bold text-white mb-1">
+                              <Link href={`/portfolios/${item.slug}`} className="hover:text-[#FEFD7F] transition-colors">
+                                {title}
+                              </Link>
+                            </h3>
+                            <p className="text-xs text-white/80 line-clamp-2 leading-relaxed">
+                              {excerpt}
+                            </p>
+                          </div>
+                        );
+                      })}
+                    </div>
+                  </div>
 
 
                 </div>

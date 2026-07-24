@@ -1,0 +1,202 @@
+[
+  {
+    "slug": "finland-doctors-association-portal",
+    "title": {
+      "en": "Finland Doctors Association Portal",
+      "de": "Portal der Finnischen Ärztevereinigung",
+      "fr": "Portail de l'Association des Médecins de Finlande",
+      "ar": "بوابة جمعية الأطباء الوطنية الفنلندية"
+    },
+    "excerpt": {
+      "en": "Bespoke membership, verification, and clinical portal built for the Finland National Doctors Association.",
+      "de": "Maßgeschneidertes Mitglieds-, Verifizierungs- und Klinikportal für die Finnische Nationale Ärztevereinigung.",
+      "fr": "Portail sur mesure d'adhésion, de vérification et clinique conçu pour l'Association Nationale des Médecins de Finlande.",
+      "ar": "بوابة مخصصة للعضوية والتحقق والخدمات الطبية لجمعية الأطباء الوطنية الفنلندية."
+    },
+    "banner": "/images/portfolios/finland-doctors.jpg",
+    "client": "Finland National Doctors Association",
+    "company": "Web Inspect Inc.",
+    "country": "Finland",
+    "year": "2024",
+    "serviceType": {
+      "en": "Custom Development & System Integration",
+      "de": "Individuelle Entwicklung & Systemintegration",
+      "fr": "Développement sur Mesure & Intégration Système",
+      "ar": "تطوير مخصص وتكامل الأنظمة"
+    },
+    "applicationType": {
+      "en": "Enterprise Web Portal & CMS",
+      "de": "Unternehmens-Webportal & CMS",
+      "fr": "Portail Web d'Entreprise & CMS",
+      "ar": "بوابة ويب للمؤسسات وإدارة المحتوى"
+    },
+    "techUsed": ["PHP", "WordPress", "MySQL", "REST API", "Tailwind CSS", "JavaScript"],
+    "featured": true,
+    "description": {
+      "en": "<h3>Project Overview</h3><p>Developed a high-security, custom digital portal for the <strong>Finland National Doctors Association</strong>. The solution handles member verification, accredited medical certification workflows, document distribution, and event registrations across Finland.</p><h4>Key Achievements & Features</h4><ul><li>Custom verification engine connected with medical registry APIs for instant credentials check.</li><li>Multi-role access control (Doctors, Admin, Auditors, General Public).</li><li>High-compliance data encryption and GDPR-aligned document management.</li><li>Automated renewal reminders and digital membership card generation.</li></ul><h4>Technical Highlights</h4><p>Custom WordPress plugin architecture built with object-oriented PHP, optimized MySQL queries for zero latency, and custom REST API endpoints integrated with security middleware.</p>",
+      "de": "<h3>Projektübersicht</h3><p>Entwicklung eines hochsicheren, maßgeschneiderten digitalen Portals für die <strong>Finnische Nationale Ärztevereinigung</strong>. Die Lösung verwaltet Mitgliedsüberprüfungen, akkreditierte medizinische Zertifizierungsabläufe und Dokumentenverteilung in ganz Finnland.</p><h4>Haupterfolge & Funktionen</h4><ul><li>Eigene Verifizierungs-Engine mit Schnittstellen zu medizinischen Registern.</li><li>Rollenbasierte Zugriffssteuerung (Ärzte, Admin, Prüfer, Öffentlichkeit).</li><li>DSGVO-konforme Datenverschlüsselung und Dokumentenverwaltung.</li><li>Automatisierte Erneuerungserinnerungen und digitale Mitgliedskarten.</li></ul>",
+      "fr": "<h3>Présentation du Projet</h3><p>Développement d'un portail numérique hautement sécurisé sur mesure pour l'<strong>Association Nationale des Médecins de Finlande</strong>.</p><h4>Principales Réalisations</h4><ul><li>Moteur de vérification personnalisé connecté aux API de registre médical.</li><li>Contrôle d'accès basé sur les rôles (Médecins, Admin, Auditeurs, Public).</li><li>Chiffrement des données conforme au RGPD.</li></ul>",
+      "ar": "<h3>نظرة عامة على المشروع</h3><p>تطوير بوابة رقمية مخصصة وعالية الأمان لـ <strong>جمعية الأطباء الوطنية الفنلندية</strong>.</p><h4>أبرز الإنجازات والميزات</h4><ul><li>محرك تحقق مخصص متصل بواجهات برمجة التطبيقات الطبية.</li><li>تحكم في الوصول متعدد الأدوار.</li><li>تشفير بيانات متوافق مع لوائح التشفير العامة GDPR.</li></ul>"
+    }
+  },
+  {
+    "slug": "custom-payment-gateway-suite",
+    "title": {
+      "en": "Multi-Currency E-Commerce Payment Gateway Suite",
+      "de": "Währungsübergreifendes E-Commerce-Zahlungsgateway-Paket",
+      "fr": "Suite de Passerelle de Paiement E-Commerce Multidevises",
+      "ar": "مجموعة بوابات الدفع الإلكتروني متعددة العملات"
+    },
+    "excerpt": {
+      "en": "Secure payment gateway integrations and e-commerce expansion suite built for global online merchants.",
+      "de": "Sichere Zahlungsgateway-Integrationen und E-Commerce-Erweiterungspaket für globale Online-Händler.",
+      "fr": "Intégrations sécurisées de passerelles de paiement et suite d'extension e-commerce pour commerçants mondiaux.",
+      "ar": "تكامل أمن لبوابات الدفع ومجموعة توسيع التجارة الإلكترونية للمتاجر العالمية."
+    },
+    "banner": "/images/portfolios/payment-gateway.jpg",
+    "client": "E-Commerce Merchants (EU & UAE)",
+    "company": "WeTechPro LLC.",
+    "country": "France",
+    "year": "2023",
+    "serviceType": {
+      "en": "Payment Gateway & E-Commerce Engineering",
+      "de": "Zahlungsgateway & E-Commerce-Engineering",
+      "fr": "Passerelle de Paiement & Ingénierie E-Commerce",
+      "ar": "هندسة بوابات الدفع والتجارة الإلكترونية"
+    },
+    "applicationType": {
+      "en": "WooCommerce & OpenCart Extension Suite",
+      "de": "WooCommerce & OpenCart Erweiterungspaket",
+      "fr": "Suite d'Extensions WooCommerce & OpenCart",
+      "ar": "مجموعة ملحقات WooCommerce و OpenCart"
+    },
+    "techUsed": ["PHP", "Node.js", "Stripe API", "PayPal SDK", "OpenCart", "WooCommerce", "Redis"],
+    "featured": true,
+    "description": {
+      "en": "<h3>Project Overview</h3><p>Designed and engineered a robust payment integration suite supporting multi-currency transactions, recurring subscription billing, and instant webhooks for seamless checkout experiences across Europe and Middle East markets.</p><h4>Key Achievements & Features</h4><ul><li>Seamless support for 15+ payment providers including Stripe, PayPal, Klarna, and local European gateways.</li><li>Real-time exchange rate conversion and dynamic fee calculation at checkout.</li><li>PCI-DSS compliant tokenized transaction handling preventing sensitive card data storage locally.</li><li>Automated refund handling and webhooks logging dashboard for merchants.</li></ul>",
+      "de": "<h3>Projektübersicht</h3><p>Entwicklung eines robusten Zahlungsintegrationspakets zur Unterstützung von Transaktionen in mehreren Währungen und wiederkehrenden Abonnements.</p>",
+      "fr": "<h3>Présentation du Projet</h3><p>Conception d'une suite d'intégration de paiement robuste prenant en charge les transactions multidevises et les abonnements récurrents.</p>",
+      "ar": "<h3>نظرة عامة على المشروع</h3><p>تصميم وتطوير مجموعة متكاملة لبوابات الدفع لدعم المعاملات متعددة العملات والاشتراكات الدوريّة.</p>"
+    }
+  },
+  {
+    "slug": "aws-serverless-microservices-infrastructure",
+    "title": {
+      "en": "AWS Serverless Microservices Infrastructure",
+      "de": "AWS Serverless Microservices-Infrastruktur",
+      "fr": "Infrastructure Microservices Serverless AWS",
+      "ar": "بنية الخدمات المصغرة بدون خادم على AWS"
+    },
+    "excerpt": {
+      "en": "Scalable AWS cloud infrastructure supporting high-throughput API gateways and serverless microservices.",
+      "de": "Skalierbare AWS-Cloud-Infrastruktur für hochdurchsatzstarke API-Gateways und Serverless-Dienste.",
+      "fr": "Infrastructure cloud AWS scalable prenant en charge des passerelles API à haut débit.",
+      "ar": "بنية سحابية قابلة للتوسع على AWS تدعم بوابات API عالية الإنتاجية."
+    },
+    "banner": "/images/portfolios/aws-cloud.jpg",
+    "client": "Enterprise Clients",
+    "company": "Ecommerized LLC",
+    "country": "United Arab Emirates",
+    "year": "2024",
+    "serviceType": {
+      "en": "AWS Cloud Architecture & DevOps",
+      "de": "AWS Cloud-Architektur & DevOps",
+      "fr": "Architecture Cloud AWS & DevOps",
+      "ar": "هندسة السحابة AWS و DevOps"
+    },
+    "applicationType": {
+      "en": "Cloud Infrastructure & Backend API",
+      "de": "Cloud-Infrastruktur & Backend-API",
+      "fr": "Infrastructure Cloud & API Backend",
+      "ar": "بنية سحابية وواجهة برمجية خلفية"
+    },
+    "techUsed": ["AWS Lambda", "API Gateway", "DynamoDB", "Node.js", "Docker", "Terraform", "Redis"],
+    "featured": true,
+    "description": {
+      "en": "<h3>Project Overview</h3><p>Architected a serverless microservices backend on <strong>AWS Cloud</strong> designed for auto-scaling during extreme peak traffic events while optimizing operational costs.</p><h4>Key Achievements & Features</h4><ul><li>Decoupled event-driven architecture using AWS EventBridge, SQS, and Lambda functions.</li><li>Global latency reduction (<50ms) using CloudFront CDN and DynamoDB Global Tables.</li><li>Automated CI/CD deployment pipelines using GitHub Actions and AWS SAM.</li><li>Implemented sub-second caching strategies with AWS ElastiCache (Redis).</li></ul>",
+      "de": "<h3>Projektübersicht</h3><p>Architektur eines serverlosen Microservices-Backends auf der AWS Cloud für automatische Skalierung bei Datenspitzen.</p>",
+      "fr": "<h3>Présentation du Projet</h3><p>Architecture d'un backend de microservices serverless sur le cloud AWS conçu pour l'auto-scaling.</p>",
+      "ar": "<h3>نظرة عامة على المشروع</h3><p>هندسة خلفية خدمات مصغرة بدون خادم على سحابة AWS مصممة للتوسع التلقائي.</p>"
+    }
+  },
+  {
+    "slug": "we-tech-pro-plugin-ecosystem",
+    "title": {
+      "en": "WeTechPro Plugin Ecosystem & Custom Modules",
+      "de": "WeTechPro Plugin-Ökosystem & Maßgeschneiderte Module",
+      "fr": "Écosystème de Plugins WeTechPro & Modules Sur Mesure",
+      "ar": "منظومة إضافات WeTechPro والوحدات المخصصة"
+    },
+    "excerpt": {
+      "en": "A collection of high-performance WordPress plugins tailored for business automation and custom UI controls.",
+      "de": "Eine Sammlung hochleistungsfähiger WordPress-Plugins für Geschäftsautomatisierung und individuelle Benutzeroberflächen.",
+      "fr": "Collection de plugins WordPress haute performance pour l'automatisation d'entreprise et interfaces personnalisées.",
+      "ar": "مجموعة من إضافات WordPress عالية الأداء للأتمتة التجارية واجهات المستخدم المخصصة."
+    },
+    "banner": "/images/portfolios/plugin-ecosystem.jpg",
+    "client": "Global Enterprise Clients",
+    "company": "WeTechPro LLC.",
+    "country": "France",
+    "year": "2022 - 2023",
+    "serviceType": {
+      "en": "Full-Stack Plugin Engineering",
+      "de": "Full-Stack Plugin-Engineering",
+      "fr": "Ingénierie de Plugins Full-Stack",
+      "ar": "هندسة الإضافات الشاملة"
+    },
+    "applicationType": {
+      "en": "WordPress Plugins & Browser Extensions",
+      "de": "WordPress-Plugins & Browser-Erweiterungen",
+      "fr": "Plugins WordPress & Extensions Navigateur",
+      "ar": "إضافات WordPress وامتدادات المتصفح"
+    },
+    "techUsed": ["PHP", "JavaScript", "React", "WordPress Hooks API", "CSS3"],
+    "featured": false,
+    "description": {
+      "en": "<h3>Project Overview</h3><p>Engineered over 20+ specialized WordPress plugins for corporate clients across France and Europe. Projects included custom booking systems, real-time inventory synchronizers, and bespoke admin control panels.</p><h4>Highlights</h4><ul><li>Modular hook-based architecture preventing plugin conflicts.</li><li>Integrated React.js components inside WordPress WP-Admin screens.</li><li>Extensive automated unit testing and WP CLI script helpers.</li></ul>",
+      "de": "<h3>Projektübersicht</h3><p>Entwicklung von über 20 spezialisierten WordPress-Plugins für Geschäftskunden in Frankreich und Europa.</p>",
+      "fr": "<h3>Présentation du Projet</h3><p>Ingénierie de plus de 20 plugins WordPress spécialisés pour des clients en France et en Europe.</p>",
+      "ar": "<h3>نظرة عامة على المشروع</h3><p>تطوير أكثر من 20 إضافة WordPress مخصصة لعملاء الشركات في فرنسا وأوروبا.</p>"
+    }
+  },
+  {
+    "slug": "freelance-extension-and-cms-solutions",
+    "title": {
+      "en": "Custom Browser Extensions & OpenCart CMS Solutions",
+      "de": "Individuelle Browser-Erweiterungen & OpenCart CMS-Lösungen",
+      "fr": "Extensions de Navigateur Sur Mesure & Solutions CMS OpenCart",
+      "ar": "امتدادات متصفح مخصصة وحلول OpenCart CMS"
+    },
+    "excerpt": {
+      "en": "High-rated freelance projects delivering custom browser extensions, OpenCart integrations, and custom tools.",
+      "de": "Erstklassige Freelance-Projekte mit maßgeschneiderten Browser-Erweiterungen und OpenCart-Integrationen.",
+      "fr": "Projets indépendants très bien notés fournissant des extensions de navigateur et intégrations OpenCart.",
+      "ar": "مشاريع حرة عالية التقييم تقدم امتدادات متصفح مخصصة وتكاملات OpenCart أدوات مخصصة."
+    },
+    "banner": "/images/portfolios/freelance-suite.jpg",
+    "client": "International Upwork & Fiverr Clients",
+    "company": "Freelance",
+    "country": "Global",
+    "year": "2017 - 2023",
+    "serviceType": {
+      "en": "Full-Stack Development & Extensions",
+      "de": "Full-Stack-Entwicklung & Erweiterungen",
+      "fr": "Développement Full-Stack & Extensions",
+      "ar": "التطوير الشامل والامتدادات"
+    },
+    "applicationType": {
+      "en": "Browser Extensions & CMS Add-ons",
+      "de": "Browser-Erweiterungen & CMS-Add-ons",
+      "fr": "Extensions Navigateur & Add-ons CMS",
+      "ar": "امتدادات المتصفح وإضافات إدارة المحتوى"
+    },
+    "techUsed": ["JavaScript (ES6+)", "Chrome Extension API", "OpenCart", "PHP", "Bootstrap"],
+    "featured": false,
+    "description": {
+      "en": "<h3>Project Overview</h3><p>Delivered over 100+ bespoke web projects, custom Chrome extensions for automated data extraction, and tailored OpenCart modules for international businesses.</p><h4>Client Feedback & Achievements</h4><ul><li>Achieved Level 2 Seller badge with consistent 5-star ratings.</li><li>Built cross-browser extensions for Chrome, Firefox, and Edge.</li><li>Created custom analytics & inventory management extensions.</li></ul>",
+      "de": "<h3>Projektübersicht</h3><p>Bereitstellung von über 100 maßgeschneiderten Webprojekten und speziellen Chrome-Erweiterungen.</p>",
+      "fr": "<h3>Présentation du Projet</h3><p>Réalisation de plus de 100 projets web sur mesure et d'extensions Chrome personnalisées.</p>",
+      "ar": "<h3>نظرة عامة على المشروع</h3><p>تقديم أكثر من 100 مشروع ويب مخصص وامتدادات Chrome لاستخراج البيانات.</p>"
+    }
+  }
+]
